@@ -1,0 +1,8 @@
+VendegNev;ParcellaTipus;EjszakakSzama;FelnottFo;GyerekFo
+Kovács Péter;KOMFORT;5;2;2
+Nagy Anna;ALAP;2;2;0
+Szabó Gábor;KOMFORT;7;2;1
+Tóth Dóra;ALAP;4;1;2
+Horváth Bence;ALAP;6;2;2
+Varga Eszter;KOMFORT;3;2;0
+Molnár Tamás;ALAP;1;1;0
